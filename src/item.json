@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "_id": "68670187b28fbb9d9cd7f7ea",
+    "userId": "6866ffba95dbabb0afa6797f",
+    "name": "Tripod 360",
+    "sTitel": "",
+    "price": 4900,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://firebasestorage.googleapis.com/v0/b/tawssilatrest.appspot.com/o/images%2F1751581024189-1000022255.webp?alt=media&token=4feac378-0b74-435f-81da-89f572e5d4ee",
+      "https://firebasestorage.googleapis.com/v0/b/tawssilatrest.appspot.com/o/images%2F1751581048233-1000021570.webp?alt=media&token=54aad916-8af0-4d8d-93fc-a71e2cbc531b",
+      "https://firebasestorage.googleapis.com/v0/b/tawssilatrest.appspot.com/o/images%2F1751581060289-1000021569.webp?alt=media&token=ff1fbf1d-dc8e-4f1c-bcd2-1351ab5cf670"
+    ],
+    "date": "2025-07-03T22:17:43.375Z",
+    "__v": 0
+  }
+]
